@@ -17,4 +17,8 @@ def bubble_sort(arr)
   arr
 end
 
+<<<<<<< HEAD
 p bubble_sort([4,3,78,2,0,2])
+=======
+p bubble_sort([4,3,78,2,0,2)
+>>>>>>> 546a3eceda986b9b470cae82e42ed8ebcac36b6e
